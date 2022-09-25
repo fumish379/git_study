@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main test
-=======
 dev test
->>>>>>> da299d3 (conflict test dev)
